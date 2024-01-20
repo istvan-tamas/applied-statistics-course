@@ -12,7 +12,3 @@ d = rand(1:6,N,2)
 k = sum(d[:,1] .> d[:,2])
 
 println(k/N)
-
-
-# coin toss
-
