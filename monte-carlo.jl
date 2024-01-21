@@ -1,4 +1,4 @@
-using Ranges
+# using Ranges
 
 N = 1000000
 k = 0
