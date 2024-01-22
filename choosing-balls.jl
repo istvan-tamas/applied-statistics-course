@@ -1,0 +1,1 @@
+println((binomial(3,2)*binomial(4,3)*binomial(3,1))/binomial(10,6))
